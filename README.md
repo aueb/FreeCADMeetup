@@ -1,6 +1,8 @@
 # FreeCADMeetup
 
 * ct Projekte Sonderheft 2019/08
+* FreeCAD Forum 
+ * https://forum.freecadweb.org/viewforum.php?f=7
 
 ## Meetup
 * https://www.meetup.com/de-DE/Stuttgart-FreeCAD/
