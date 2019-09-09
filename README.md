@@ -13,6 +13,16 @@
 
 # Ressources
 
+## Parts
+* https://www.thingiverse.com/
+* https://grabcad.com/
+* https://www.myminifactory.com/
+* https://www.yeggi.com/
+* https://free3d.com/
+* tbc ...
+
+
+
 ## Hackaday
 
 * Drehscheibe
@@ -28,3 +38,7 @@
 
 ### 3D Print Material
 * https://grabcad.com/tutorials/pre-printing-tips-for-flexible-polyjet-materials
+
+### Books
+* Stephan Regele Mach was mit 3D-Druck
+ * 
