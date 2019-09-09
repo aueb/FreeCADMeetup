@@ -41,4 +41,4 @@
 
 ### Books
 * [Stephan Regele Mach was mit 3D-Druck](https://amzn.to/2N5ANFm)
-* [CAD für Maker: Designe deine DIY-Objekte mit FreeCAD, Fusion 360, SketchUp & Tinkercad. Für 3D-Druck, Lasercutting & Co](https://amzn.to/2HVdKJi)
+* [Ralf Steck CAD für Maker: FreeCAD, Fusion 360, SketchUp & Tinkercad. Für 3D-Druck, Lasercutting & Co](https://amzn.to/2ZRmY4o)
