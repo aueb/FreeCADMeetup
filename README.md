@@ -7,6 +7,23 @@
 ## Meetup
 * https://www.meetup.com/de-DE/Stuttgart-FreeCAD/
 
+
+## FreeCAD Einstieg
+
+### Übersichten
+* Erste Schritte Übersicht aus dem FreeCAD Forum von r-frank
+ * https://forum.freecadweb.org/viewtopic.php?f=13&t=19105
+ 
+* Herr Seibert https://herrseibert.de/
+ * FreeCAD Tutorial
+ * Technisches Skizzieren
+ * Technisches Zeichnen
+
+### Youtube
+* FreeCAD Playlist von BPLRFE = r-frank aus dem FreeCAD Forum
+ * https://www.youtube.com/watch?v=m49z0weonog&list=PLsrwVwvqYb8G4Ri0iz1JIebsOXkgoytAY
+ * das passende GitHub Repo https://github.com/BPLRFE/Youtube-Tutorial-Models
+
 # LegoCAD
 
 ## Lego Bricks
