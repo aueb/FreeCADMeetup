@@ -19,6 +19,9 @@
  * Technisches Skizzieren
  * Technisches Zeichnen
 
+* FreCAD Manual
+  * https://legacy.gitbook.com/book/yorikvanhavre/a-freecad-manual/details
+
 ### Youtube
 * FreeCAD Playlist von BPLRFE = r-frank aus dem FreeCAD Forum
   * https://www.youtube.com/watch?v=m49z0weonog&list=PLsrwVwvqYb8G4Ri0iz1JIebsOXkgoytAY
