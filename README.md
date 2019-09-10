@@ -3,6 +3,7 @@
 * ct Projekte Sonderheft 2019/08
 * FreeCAD Forum 
  * https://forum.freecadweb.org/viewforum.php?f=7
+ * https://www.freecadweb.org/wiki/index.php?title=Category:Tutorials
 
 ## Meetup
 * https://www.meetup.com/de-DE/Stuttgart-FreeCAD/
