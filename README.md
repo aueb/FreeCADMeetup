@@ -21,9 +21,9 @@
 
 ### Youtube
 * FreeCAD Playlist von BPLRFE = r-frank aus dem FreeCAD Forum
- * https://www.youtube.com/watch?v=m49z0weonog&list=PLsrwVwvqYb8G4Ri0iz1JIebsOXkgoytAY
- * das passende GitHub Repo https://github.com/BPLRFE/Youtube-Tutorial-Models
- * Modelle auf GrabCAD https://grabcad.com/library/german-freecad-youtube-tutorials-by-bplrfe-1
+  * https://www.youtube.com/watch?v=m49z0weonog&list=PLsrwVwvqYb8G4Ri0iz1JIebsOXkgoytAY
+  * das passende GitHub Repo https://github.com/BPLRFE/Youtube-Tutorial-Models
+  * Modelle auf GrabCAD https://grabcad.com/library/german-freecad-youtube-tutorials-by-bplrfe-1
 
 # LegoCAD
 
