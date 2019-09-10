@@ -24,6 +24,8 @@
 
 * https://www.xsim.info/articles/FreeCAD/en-US/How-to-use-FreeCAD.html
 
+* https://all3dp.com/1/freecad-tutorial-3d-printing/
+
 * FreeCAD E-Books https://3dprintboard.com/showthread.php?18242-3D-Printing-For-Kids-Ebook-Series
 
 
