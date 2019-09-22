@@ -1,6 +1,13 @@
 # FreeCADMeetup
 
 * ct Projekte Sonderheft 2019/08
+* ct 13 2018 S.140 ff  CAD-Content 3D-Konstruktion mit FreeCAD
+ * https://www.heise.de/select/ct/2018/13/1529289292820608
+ * Dateien + Softlink https://www.heise.de/select/ct/2018/13/softlinks/yxde?wt_mc=pred.red.ct.ct132018.140.softlink.softlink
+* ct 16 2717  Schraube in chic 3D-Konstruktion und Rendering mit FreeCAD
+ * https://www.heise.de/select/ct/2017/16/1501448051542734#zsdb-article-links
+ * https://www.heise.de/select/ct/2017/16/softlinks/ygn2?wt_mc=pred.red.ct.ct162017.138.softlink.softlink
+
 * FreeCAD Forum 
  * https://forum.freecadweb.org/viewforum.php?f=7
  * https://www.freecadweb.org/wiki/index.php?title=Category:Tutorials
@@ -74,3 +81,6 @@
 ### Books
 * [Stephan Regele Mach was mit 3D-Druck](https://amzn.to/2N5ANFm)
 * [Ralf Steck CAD für Maker: FreeCAD, Fusion 360, SketchUp & Tinkercad. Für 3D-Druck, Lasercutting & Co](https://amzn.to/2ZRmY4o)
+
+### Tips
+* FAQ 3D Druck (von 2013) https://www.heise.de/ct/ausgabe/2013-24-Antworten-auf-die-haeufigsten-Fragen-2311506.html
