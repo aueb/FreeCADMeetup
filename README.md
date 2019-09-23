@@ -7,6 +7,9 @@
 * ct 16 2717  Schraube in chic 3D-Konstruktion und Rendering mit FreeCAD
  - https://www.heise.de/select/ct/2017/16/1501448051542734#zsdb-article-links
  - https://www.heise.de/select/ct/2017/16/softlinks/ygn2?wt_mc=pred.red.ct.ct162017.138.softlink.softlink
+ 
+* Vortrag auf der Fossdem 2014
+ * https://archive.fosdem.org/2015/schedule/event/freecad/
 
 * FreeCAD Forum 
  - https://forum.freecadweb.org/viewforum.php?f=7
