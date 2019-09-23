@@ -11,6 +11,7 @@
 * Vortrag auf der Fossdem 2014
  * https://archive.fosdem.org/2015/schedule/event/freecad/
  * Blog von Yorik http://yorik.uncreated.net/
+ * Architektur Tutorial https://www.youtube.com/playlist?list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU
 
 * FreeCAD Forum 
  - https://forum.freecadweb.org/viewforum.php?f=7
