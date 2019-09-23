@@ -10,6 +10,7 @@
  
 * Vortrag auf der Fossdem 2014
  * https://archive.fosdem.org/2015/schedule/event/freecad/
+ * Blog von Yorik http://yorik.uncreated.net/
 
 * FreeCAD Forum 
  - https://forum.freecadweb.org/viewforum.php?f=7
