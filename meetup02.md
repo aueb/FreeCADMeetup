@@ -30,3 +30,9 @@
 
 ## Python Scripting
 * https://forum.freecadweb.org/viewtopic.php?f=22&t=4887&sid=cfbfe030442cc34b4c4994368b03044d
+''' 
+>>> import sys
+>>> print(sys.version)
+3.6.7 | packaged by conda-forge | (default, Nov 21 2018, 02:32:25) 
+[GCC 4.8.2 20140120 (Red Hat 4.8.2-15)]
+'''
