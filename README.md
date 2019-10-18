@@ -65,7 +65,11 @@
 * https://free3d.com/
 * tbc ...
 
-
+## Vorlagen
+* Thingiverse
+  * Zahnrad- und Zahnriemenprofile https://www.thingiverse.com/thing:16627 
+  * Thread im FreeCad forum https://forum.freecadweb.org/viewtopic.php?t=35899
+  * https://forum.freecadweb.org/viewtopic.php?f=13&t=39894
 
 ## Hackaday
 
