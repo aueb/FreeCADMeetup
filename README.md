@@ -50,6 +50,8 @@
   * Modelle auf GrabCAD https://grabcad.com/library/german-freecad-youtube-tutorials-by-bplrfe-1
 * Learn FreeCAD (Tutorial englisch)
   * https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj
+* FreeCAD 0.18 Grundlagen #1 Saubere Skizzen im Sketcher erstellen - CAD Anfänger Tutorial [Deutsch]
+  * https://www.youtube.com/watch?v=OQodi9WOou4
   
   
 # LegoCAD
