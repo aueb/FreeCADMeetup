@@ -16,6 +16,10 @@
 * FreeCAD Forum https://forum.freecadweb.org/viewtopic.php?f=13&t=39993
 * https://forum.freecadweb.org/viewtopic.php?f=20&t=34806
 
+## Parts / Partsdesign
+* FreeCAD - Polar Arrays Tutorial ( Draft and Part Design ) make a Bike Gear Ring
+  * https://www.youtube.com/watch?v=tW_jywkkjSQ
+
 ## KiCAD
 * https://github.com/easyw/kicadStepUpMod
 * https://github.com/easyw/kicadStepUpMod/blob/master/demo/kicadStepUp-cheat-sheet.pdf
