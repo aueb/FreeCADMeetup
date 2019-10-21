@@ -3,7 +3,9 @@
 
 ### Assembly2+
 * FreeCAD Montage Lagereinheit A2Plus https://www.youtube.com/watch?time_continue=4&v=PL25K48xDCQ
-
+* FreeCAD Tutorial - Kreuzgelenk mit der PartDesign und Assembly A2+ Workbench (Baugruppe)
+  * https://www.youtube.com/watch?v=vDcaFq6IEJM
+  
 ### Assembly3
 * https://github.com/realthunder/FreeCAD_assembly3
 * https://github.com/realthunder/asm3-wiki
