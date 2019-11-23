@@ -68,9 +68,11 @@
 * https://free3d.com/
 * tbc ...
 ### Getriebe / Zahnradberechnung
-* Determining gear dimensions:
- * https://www.researchgate.net/publication/294895629_A_Procedure_To_Determine_the_Unknown_Geometry_of_External_Cylindrical_Gears
- * https://www.salemcompany.com/cgi-bin/Store/pdfs/InvGrsClSect8ed2.pdf
+* 3D Printed PLA Gear after 2 Years? - Spur Gear Tool in Fusion360
+ * https://www.youtube.com/watch?v=vuJmWKsCYcU
+ * Determining gear dimensions:
+  * https://www.researchgate.net/publication/294895629_A_Procedure_To_Determine_the_Unknown_Geometry_of_External_Cylindrical_Gears
+  * https://www.salemcompany.com/cgi-bin/Store/pdfs/InvGrsClSect8ed2.pdf
 
 
 ## Vorlagen
