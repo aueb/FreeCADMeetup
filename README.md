@@ -52,6 +52,9 @@
   * https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj
 * FreeCAD 0.18 Grundlagen #1 Saubere Skizzen im Sketcher erstellen - CAD Anfänger Tutorial [Deutsch]
   * https://www.youtube.com/watch?v=OQodi9WOou4
+* BavariaShape - FreeCAD PRAXIS
+ * https://www.youtube.com/channel/UCUO0Kd8_XgZk3GE-IiqnCmQ
+
   
   
 # LegoCAD
