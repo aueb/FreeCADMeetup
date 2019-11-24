@@ -5,8 +5,8 @@
  - https://www.heise.de/select/ct/2018/13/1529289292820608
  - Dateien + Softlink https://www.heise.de/select/ct/2018/13/softlinks/yxde?wt_mc=pred.red.ct.ct132018.140.softlink.softlink
 * ct 16 2717  Schraube in chic 3D-Konstruktion und Rendering mit FreeCAD
- - https://www.heise.de/select/ct/2017/16/1501448051542734#zsdb-article-links
- - https://www.heise.de/select/ct/2017/16/softlinks/ygn2?wt_mc=pred.red.ct.ct162017.138.softlink.softlink
+ * https://www.heise.de/select/ct/2017/16/1501448051542734#zsdb-article-links
+ * https://www.heise.de/select/ct/2017/16/softlinks/ygn2?wt_mc=pred.red.ct.ct162017.138.softlink.softlink
  
 * Vortrag auf der Fossdem 2014
  * https://archive.fosdem.org/2015/schedule/event/freecad/
@@ -14,8 +14,8 @@
  * Architektur Tutorial https://www.youtube.com/playlist?list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU
 
 * FreeCAD Forum 
- - https://forum.freecadweb.org/viewforum.php?f=7
- - https://www.freecadweb.org/wiki/index.php?title=Category:Tutorials
+ * https://forum.freecadweb.org/viewforum.php?f=7
+ * https://www.freecadweb.org/wiki/index.php?title=Category:Tutorials
 
 ## Meetup
 * https://www.meetup.com/de-DE/Stuttgart-FreeCAD/
@@ -35,9 +35,9 @@
 * FreCAD Manual
   * https://legacy.gitbook.com/book/yorikvanhavre/a-freecad-manual/details
 
-* https://www.xsim.info/articles/FreeCAD/en-US/How-to-use-FreeCAD.html
+  * https://www.xsim.info/articles/FreeCAD/en-US/How-to-use-FreeCAD.html
 
-* https://all3dp.com/1/freecad-tutorial-3d-printing/
+  * https://all3dp.com/1/freecad-tutorial-3d-printing/
 
 * FreeCAD E-Books https://3dprintboard.com/showthread.php?18242-3D-Printing-For-Kids-Ebook-Series
 
@@ -53,7 +53,7 @@
 * FreeCAD 0.18 Grundlagen #1 Saubere Skizzen im Sketcher erstellen - CAD Anfänger Tutorial [Deutsch]
   * https://www.youtube.com/watch?v=OQodi9WOou4
 * BavariaShape - FreeCAD PRAXIS
- * https://www.youtube.com/channel/UCUO0Kd8_XgZk3GE-IiqnCmQ
+  * https://www.youtube.com/channel/UCUO0Kd8_XgZk3GE-IiqnCmQ
 
   
   
