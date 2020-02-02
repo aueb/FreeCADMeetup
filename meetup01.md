@@ -20,7 +20,12 @@ Bedienungsmodi
 ## FEM
 # Workflows Special
 
-## Import / Export
+## Import / Export (.ipt)
+### AutoCAD Inventor
+* https://github.com/jmplonka/InventorLoader
+* https://forum.freecadweb.org/viewtopic.php?t=20575
+
+### Collada (.dae)
 
 
 ## Python Programme
