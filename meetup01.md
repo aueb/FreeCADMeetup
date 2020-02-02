@@ -20,8 +20,8 @@ Bedienungsmodi
 ## FEM
 # Workflows Special
 
-## Import / Export (.ipt)
-### AutoCAD Inventor
+## Import / Export
+### AutoCAD Inventor (.ipt)
 * https://github.com/jmplonka/InventorLoader
 * https://forum.freecadweb.org/viewtopic.php?t=20575
 
