@@ -21,11 +21,16 @@ Bedienungsmodi
 # Workflows Special
 
 ## Import / Export
+* https://www.freecadweb.org/wiki/Import_Export_Preference/en
+
 ### AutoCAD Inventor (.ipt)
 * https://github.com/jmplonka/InventorLoader
 * https://forum.freecadweb.org/viewtopic.php?t=20575
 
 ### Collada (.dae)
+* https://en.wikipedia.org/wiki/COLLADA
+* https://www.freecadweb.org/wiki/Arch_DAE
+* https://www.freecadweb.org/wiki/index.php?title=Extra_python_modules#pyCollada
 
 
 ## Python Programme
