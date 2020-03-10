@@ -1,0 +1,20 @@
+# Meetup
+* https://www.meetup.com/de-DE/Stuttgart-FreeCAD/events/269001945/
+
+## Themen
+### Freecutter (/forum.freecadweb.org/viewtopic.php?f=3&t=41365)
+Problem mit Übertragung von STL Dateien aus Sketchup nach FreeCAD siehe https://forum.freecadweb.org/viewtopic.php?f=3&t=41365&p=351249#p351249.
+
+![Bike](https://forum.freecadweb.org/download/file.php?id=97496)
+
+Es ist zwar gelungen ein Drahtmodell der Verkleidung zu importieren. Das Drahtmodell war immerhin so gut, das es gelang auf die verbundenen Edges eine Fläche zu legen. Besser wäre es aber komplette Flächen oder manipulierbare Solds zu bekommen.
+
+folgende Tutorials könnten helfen:
+* FreeCAD STL zu FreeCad ( Part/Part Design) v. 01.7 und zurück
+  * https://www.youtube.com/watch?v=B_YLcGNVWHg
+* Rics 3D - Stl nach Solid. Ganz einfach mit FreeCAD
+  * https://www.youtube.com/watch?v=8XpCfSSBSME
+
+### TDO für Dein Problem hilft vielleicht
+* FreeCAD 0.18 Einsteiger Tutorial Rohre Konstruieren, Teil 3, mit Sweep Funktion
+  * https://www.youtube.com/watch?v=ERg16KYOXXg
