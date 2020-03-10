@@ -18,3 +18,5 @@ folgende Tutorials könnten helfen:
 ### TDO für Dein Problem hilft vielleicht
 * FreeCAD 0.18 Einsteiger Tutorial Rohre Konstruieren, Teil 3, mit Sweep Funktion
   * https://www.youtube.com/watch?v=ERg16KYOXXg
+ * FreeCAD Forum [gelöst] Sweep entlang einer Leitkurve
+  * https://forum.freecadweb.org/viewtopic.php?f=13&t=44028
