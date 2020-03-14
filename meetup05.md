@@ -17,6 +17,7 @@ folgende Tutorials könnten helfen:
 
 ### TDO für Dein Problem hilft vielleicht
 ![Winkel](https://github.com/aueb/FreeCADMeetup/blob/master/tips%2Btricks/winkel/20200310_192200-768.jpg)
+![Wikel2](https://github.com/aueb/FreeCADMeetup/blob/master/tips%2Btricks/winkel/20200310_192209-768.jpg)
 
 * FreeCAD 0.18 Einsteiger Tutorial Rohre Konstruieren, Teil 3, mit Sweep Funktion
   * https://www.youtube.com/watch?v=ERg16KYOXXg
