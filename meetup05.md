@@ -5,7 +5,7 @@
 ### Freecutter (/forum.freecadweb.org/viewtopic.php?f=3&t=41365)
 Problem mit Übertragung von STL Dateien aus Sketchup nach FreeCAD siehe https://forum.freecadweb.org/viewtopic.php?f=3&t=41365&p=351249#p351249.
 
-![Bike](https://forum.freecadweb.org/download/file.php?id=97496)
+![Bike](https://github.com/aueb/FreeCADMeetup/blob/master/tips%2Btricks/liegebike/liegebike.jpeg)
 
 Es ist zwar gelungen ein Drahtmodell der Verkleidung zu importieren. Das Drahtmodell war immerhin so gut, das es gelang auf die verbundenen Edges eine Fläche zu legen. Besser wäre es aber komplette Flächen oder manipulierbare Solds zu bekommen.
 
