@@ -16,6 +16,8 @@ folgende Tutorials könnten helfen:
   * https://www.youtube.com/watch?v=8XpCfSSBSME
 
 ### TDO für Dein Problem hilft vielleicht
+![Winkel](https://github.com/aueb/FreeCADMeetup/blob/master/tips%2Btricks/winkel/20200310_192200-768.jpg)
+
 * FreeCAD 0.18 Einsteiger Tutorial Rohre Konstruieren, Teil 3, mit Sweep Funktion
   * https://www.youtube.com/watch?v=ERg16KYOXXg
 * FreeCAD Forum [gelöst] Sweep entlang einer Leitkurve
