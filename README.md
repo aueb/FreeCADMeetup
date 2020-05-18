@@ -39,7 +39,8 @@
 
 * FreeCAD E-Books https://3dprintboard.com/showthread.php?18242-3D-Printing-For-Kids-Ebook-Series
 
-
+* Opensource Ecology
+ * https://wiki.opensourceecology.org/wiki/FreeCAD
 
 ### Youtube
 * FreeCAD Playlist von BPLRFE = r-frank aus dem FreeCAD Forum
